@@ -1,0 +1,18 @@
+AI-Lab-99-Week2-Day7-Python-Pandas/
+│
+├── Dataset/
+│   └── README.md
+│
+├── Python/
+│   └── Cleaning.py
+│
+├── Clean_Data/
+│   └── README.md
+│
+├── Documentation/
+│   └── Day7_Documentation.md
+│
+├── requirements.txt
+├── .gitignore
+├── LICENSE
+└── README.md
